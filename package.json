@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-todolist",
+  "version": "1.0.0",
+  "description": "Todolist with Nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunh1801/nextjs-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunh1801/nextjs-todolist/issues"
+  },
+  "homepage": "https://github.com/hieunh1801/nextjs-todolist#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/icons": "^4.9.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
